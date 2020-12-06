@@ -1,16 +1,12 @@
-### Hi there 👋
+## Привет 👋
 
-<!--
-**MrVaDiM4iK/MrVaDiM4IK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Спасибо, что открыл мой профиль. Ниже ты увидишь информацию обо мне и то, чем я занимаюсь:
+- Создатель бота [JeggyBot](https://www.jeggybot.ml)
+- Модератором на [BotiCord](https://boticord.top)
+- Frontend и JS девелопер
++ **Изучаемые языки:**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
