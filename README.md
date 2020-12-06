@@ -2,7 +2,7 @@
 
 Спасибо, что открыл мой профиль. Ниже ты увидишь информацию обо мне и то, чем я занимаюсь:
 - Создатель бота [JeggyBot](https://www.jeggybot.ml)
-- Модератором на [BotiCord](https://boticord.top)
+- Модератор на [BotiCord](https://boticord.top) и многих Discord серверах
 - Frontend и JS девелопер
 + **Изучаемые языки:**
 
