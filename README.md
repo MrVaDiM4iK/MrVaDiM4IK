@@ -11,5 +11,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVaDiM4iK&show_icons=true&theme=dark)
 <a href="https://wakatime.com/@MrVaDiM4iK">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&theme=dark">
-</a>  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&hide_border=true&theme=dark&layout=compact">
+</a>
