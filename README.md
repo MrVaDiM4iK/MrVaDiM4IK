@@ -4,6 +4,12 @@
 - Создатель бота [JeggyBot](https://www.jeggybot.ml)
 - Модератор на [BotiCord](https://boticord.top) и многих Discord серверах
 - Frontend и JS девелопер
+
+<a href="https://discord.gg/gbAC9sa">
+  <img src="http://invidget.switchblade.xyz/gbAC9sa" />
+</a>
+
+---
 + **Изучаемые языки:**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
