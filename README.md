@@ -1,20 +1,21 @@
 ## Привет 👋
 
-Спасибо, что открыл мой профиль. Я — обычный человек, увлекающийся кодингом.
+Спасибо, что открыл мой профиль. Я — обычный человек, увлекающийся программированием.
 
-### Мои небольшие достижения
+### Мои достижения x)
 - Создатель крупного СНГ бота [JeggyBot](https://jeggybot.xyz).
 - Модератор на [BotiCord](https://boticord.top) и некоторых других Discord серверах.
-- Frontend и JS разработчик.
+- Frontend и Backend разработчик.
 
 <a href="https://discord.gg/gbAC9sa">
   <img src="http://invidget.switchblade.xyz/gbAC9sa" />
 </a>
 
 ---
-### **Изучаемые языки**
+### **Изучаемые языки и интрументы**
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  <img height="40"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 
 ---
 ### **Различная статистика**
