@@ -22,6 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-161b22?style=for-the-badge&logo=Bootstrap)
+![E.JS](https://img.shields.io/badge/-E.JS-161b22?style=for-the-badge&logo=EJS)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-161b22?style=for-the-badge&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=for-the-badge&logo=MongoDB)
@@ -31,4 +32,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&hide_border=false&theme=dark&layout=compact)](https://wakatime.com/@MrVaDiM4iK)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVaDiM4iK&layout=compact&theme=dark&show_icons=true&hide_border=true&langs_count=10)](https://wakatime.com/@MrVaDiM4iK)
