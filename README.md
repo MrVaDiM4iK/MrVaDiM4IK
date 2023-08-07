@@ -14,8 +14,17 @@
 ---
 ### **Изучаемые языки и интрументы**
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  <img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-161b22?style=for-the-badge&logo=Node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-161b22?style=for-the-badge&logo=Vue.js)
+
+![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-161b22?style=for-the-badge&logo=Bootstrap)
+
+![MySQL](https://img.shields.io/badge/-MySQL-161b22?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=for-the-badge&logo=MongoDB)
 
 ---
 ### **Различная статистика**
