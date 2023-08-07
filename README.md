@@ -31,4 +31,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVaDiM4iK&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://wakatime.com/@MrVaDiM4iK)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&hide_border=false&theme=dark&layout=compact)](https://wakatime.com/@MrVaDiM4iK)
