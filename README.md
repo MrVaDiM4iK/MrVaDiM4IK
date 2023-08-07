@@ -29,8 +29,6 @@
 ---
 ### **Различная статистика**
 
-![stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
 <br />
-<a href="https://wakatime.com/@MrVaDiM4iK">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&hide_border=false&theme=dark&layout=compact">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVaDiM4iK&layout=compact&theme=dark&show_icons=true&hide_border=true)](https://wakatime.com/@MrVaDiM4iK)
