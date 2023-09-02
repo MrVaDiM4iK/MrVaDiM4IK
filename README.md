@@ -12,7 +12,7 @@
 </a>
 
 ---
-### **Изучаемые языки и интрументы**
+### **Изучаемые языки и инструменты**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=TypeScript)
